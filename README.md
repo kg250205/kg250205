@@ -1,6 +1,14 @@
 <h1 align="center">Kushang Goel</h1><p align="center">
   🎓 BCA Graduate • Pursuing MCA • Actively Seeking Opportunities • Eager to Learn & Grow 🚀
-</p>---
+</p>
+
+📄 Resume
+
+<p align="center">
+  <a href="https://github.com/kg250205/kg250205/blob/main/Kushang%20Goel%20Resume.pdf">
+    <img src="https://img.shields.io/badge/View%20Resume-Click%20Here-blue?style=for-the-badge&logo=adobeacrobatreader">
+  </a>
+</p>
 
 👨‍💻 About Me
 
