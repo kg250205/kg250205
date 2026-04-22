@@ -182,9 +182,6 @@ Actively seeking entry-level opportunities in the tech industry where I can appl
   <a href="https://linkedin.com/in/kushanggoel">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="https://github.com/kg250205">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
-  </a>
   <a href="https://wa.me/919811867887">
     <img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp">
   </a>
