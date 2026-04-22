@@ -2,8 +2,6 @@
   🎓 BCA Graduate • Pursuing MCA • Actively Seeking Opportunities • Eager to Learn & Grow 🚀
 </p>
 
-📄 Resume
-
 <p align="center">
   <a href="https://github.com/kg250205/kg250205/blob/main/Kushang%20Goel%20Resume.pdf">
     <img src="https://img.shields.io/badge/View%20Resume-Click%20Here-blue?style=for-the-badge&logo=adobeacrobatreader">
