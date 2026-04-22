@@ -153,7 +153,7 @@ Power BI • Excel • Git & GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kg250205&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kg250205&theme=tokyonight" />
-</p>---
+</p>
 
 🌱 Currently Learning
 
@@ -191,7 +191,7 @@ Actively seeking entry-level opportunities in the tech industry where I can appl
   <a href="https://twitter.com/Kusshhang">
     <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter">
   </a>
-</p>---
+</p>
 
 <p align="center">
   ⚡ Building • Learning • Growing 🚀
